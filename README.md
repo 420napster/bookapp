@@ -23,9 +23,11 @@ Tomcat - 7.x
 
 Explore Rest APIs
 -----------------
-The app defines following CRUD APIs.
-------------------------------------
 
+The app defines following CRUD APIs.
+
+
+------------------------------------
 GET /api/book
 
 POST /api/book
