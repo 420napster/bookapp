@@ -4,7 +4,9 @@ This book app is developed on micro-service architecture using java and angular 
 BOOK API - Spring MVC, MySQL, Hibernate Rest API Tutorial
 Build Restful CRUD API for a simple Book-Manage application using Spring MVC, MySQL and Hibernate.
 
+
 Requirements
+-------------
 Java - 1.8.x
 
 Maven - 3.1
@@ -15,6 +17,7 @@ Tomcat - 7.x
 
 
 Explore Rest APIs
+-----------------
 The app defines following CRUD APIs.
 
 GET /api/book
