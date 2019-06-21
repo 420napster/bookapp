@@ -27,15 +27,15 @@ Explore Rest APIs
 The app defines following CRUD APIs.
 
 ```
-* GET /api/book
+GET /api/book
 
-* POST /api/book
+POST /api/book
 
-* GET /api/book/{bookId}
+GET /api/book/{bookId}
 
-* PUT /api/book/{bookId}
+PUT /api/book/{bookId}
 
-* DELETE /api/book/{bookId}
+DELETE /api/book/{bookId}
 ```
 
 You can test them using postman or any other rest client.
