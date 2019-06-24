@@ -39,3 +39,17 @@ DELETE /api/book/{bookId}
 ```
 
 You can test them using postman or any other rest client.
+
+
+
+
+Create Database
+----------------------------------------------
+```
+CREATE TABLE `book` (
+	`id` INT(11) NOT NULL AUTO_INCREMENT,
+	`title` VARCHAR(225) NOT NULL,
+	`author` VARCHAR(225) NOT NULL,
+	PRIMARY KEY (`id`)
+)
+```
